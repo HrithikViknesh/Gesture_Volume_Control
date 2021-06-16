@@ -17,7 +17,7 @@ GVC has been built using the Hand Recognition and Tracking software <a href="htt
 It is best when run within a python virtual environment which makes maintaining the different packages easier.
 
 
-Note: The criteria for adjusting volume based on hand gesture can be modified to suit your needs, since some parameters like the usual distance of your palm from camera while gesturing, your system volume range as detected by Pycaw.
+Note: The criteria for adjusting volume based on hand gesture can be modified to suit your needs, since some parameters like the usual distance of your palm from camera while gesturing, your system volume range as detected by Pycaw, might be different for each system.
 
 Files:
  
